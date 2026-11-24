@@ -1,0 +1,19 @@
+# PlatformIO
+.pio/
+
+# IDE
+.vscode/
+.idea/
+
+# Compiled files
+*.bin
+*.elf
+*.map
+*.o
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Local environment
+.env
